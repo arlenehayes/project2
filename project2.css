@@ -34,6 +34,7 @@ h2{
 h3{
   font-style: italic;
   font-size: 2.2em;
+  text-align: center;
   }
 h4{
   font-size: 2em;
@@ -41,5 +42,19 @@ h4{
 #footer{
   background-color: rgba(187,139,191,.7);
   color: black;
-  font-size: 0.6em;
+  font-size: 0.9em;
   }
+/*Link styles*/
+a:link{
+  color: rgb(133,19,206);
+  }
+a:visited{
+  color: rgb(65,18,95);
+  }
+a:hover{
+  color: black;
+  }
+a:active{
+  color: white;
+  }
+  
