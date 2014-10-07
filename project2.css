@@ -37,14 +37,19 @@ h3{
 h4{
   font-size: 2em;
   }
+#background{
+  padding-top: 3em;
+  }
 #school{
-  margin-left: 5em;
-  margin-right: 5em;
+  margin-left: 3em;
+  margin-right: 3em;
+  padding-top: 3em;
   }
 #footer{
-  margin-left: 0;
-  margin-right: 0;
-  background-color: rgba(187,139,191,.7);
+  margin-left: 0em;
+  margin-right: 0em;
+  padding-top: 10em;
+  background-color: rgba(187,139,191,.5);
   color: black;
   font-size: 0.9em;
   }
