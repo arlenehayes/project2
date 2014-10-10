@@ -84,9 +84,11 @@ p{
 	}
 	
 footer#footer{
-    font-size: 2em;
+    font-size: 0.9em;
 	margin-top: 3.6em;
 	margin-bottom: 0.7em;
+	margin-left: 0em;
+	margin-right: 0em;
 	}
 	
 #email{
