@@ -83,6 +83,13 @@ p{
 	margin-bottom: 2.7em;
 	}
 	
+div#photoframepic{
+    float: left;
+	display: block;
+	padding-top: 0.8em;
+	padding-bottom: 1em;
+	}
+	
 footer#footer{
     font-size: 1.1em;
 	margin-top: 3.6em;
