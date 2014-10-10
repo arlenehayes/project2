@@ -7,12 +7,12 @@ body{
     width: 90%;
 	margin-left: ;
 	min-width: 84em;
-	
-    /*background-color: black;
-    color: rgb(187,139,191);*/
+	background-color: black;
+	color: white;
     font-family: Cambria, Georgia, serif;
     font-size: 62.5%; /* 1em now = 10px */
     line-height: 1.8em;
+	
     /*Stops text size adjustment with change in smartphone orientation. Mobile First :D*/
     -webkit-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
@@ -24,7 +24,6 @@ body{
 	text-align: left;
 	float: left;
 	line-height: 1.8em;
-	background-color: black;
 	}
 
 #column1{
@@ -86,8 +85,8 @@ p{
     font-size: 1.1em;
 	margin-top: 3.6em;
 	margin-bottom: 0.7em;
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: rgb(116,122,118);
 	}
 	
 #email{
@@ -155,10 +154,10 @@ a:link{
 	font-style: none;
     }
 a:visited{
-    color: rgb(65,18,95);
+    color: black;
     }
 a:hover{
-    color: black;
+    font-style: underline;
     }
 a:active{
     color: black;
