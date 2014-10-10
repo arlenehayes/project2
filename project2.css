@@ -99,65 +99,16 @@ p{
     float: right;
     }
 	
-	
-	
-/*body{
-    font-size: 1.8em;
-    margin-left: 3em;
-    margin-right: 3em;
-    }
-#header{
-    text-align: center;
-    }
-h1{
-    font-size: 1.6em;
-    }
-h2{
-    font-size: 2.2em;
-    }
-h3{
-    font-style: italic;
-    font-size: 1.8em;
-    text-align: center;
-  }
-h4{
-    font-size: 2em;
-    }
-#background{
-    padding-top: 3em;
-    }
-#school{
-    padding-top: 3em;
-    padding-bottom: 10em;
-    }
-#footer{
-    margin-left: 0em;
-    margin-right: 0em;
-    background-color: rgba(187,139,191,.5);
-    color: white;
-    font-size: 0.9em;
-    }
-  #email{
-      position: relative;
-	  float: left;
-	  }
-  #medialinks{
-      position: relative;
-	  float: right;
-	  }*/
-	  
-	  
 	  
 /*Link styles*/
 a:link{
     color: rgb(133,19,206);
-	font-style: none;
-    }
+	}
 a:visited{
     color: black;
     }
 a:hover{
-    font-style: underline;
+    color: gray;
     }
 a:active{
     color: black;
