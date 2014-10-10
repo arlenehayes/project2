@@ -51,6 +51,12 @@ h4{
   color: black;
   font-size: 0.9em;
   }
+#email{
+    float: left;
+	}
+#medialinks{
+    float: right;
+	}
 /*Link styles*/
 a:link{
   color: rgb(133,19,206);
