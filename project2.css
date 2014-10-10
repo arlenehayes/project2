@@ -5,11 +5,8 @@
 
 body{
     width: 90%;
-	margin-left: ;
 	min-width: 84em;
-	background-color: black;
-	color: white;
-    font-family: Cambria, Georgia, serif;
+	font-family: Cambria, Georgia, serif;
     font-size: 62.5%; /* 1em now = 10px */
     line-height: 1.8em;
 	
@@ -47,7 +44,6 @@ img{
 
 #header{
     text-align: center;
-	color: white;
 	}
 
 h1{
@@ -85,8 +81,6 @@ p{
     font-size: 1.1em;
 	margin-top: 3.6em;
 	margin-bottom: 0.7em;
-	background-color: white;
-	color: rgb(116,122,118);
 	}
 	
 #email{
@@ -99,9 +93,9 @@ p{
     float: right;
     }
 	
-	  
+	
 /*Link styles*/
-a:link{
+/*a:link{
     color: rgb(133,19,206);
 	}
 a:visited{
@@ -112,5 +106,5 @@ a:hover{
     }
 a:active{
     color: black;
-    }
+    }*/
   
