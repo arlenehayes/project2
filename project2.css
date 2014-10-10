@@ -51,7 +51,7 @@ img{
 	color: white;
 	}
 
-   h1{
+h1{
     font-size: 2.1em;
 	margin-top: 1em;
 	margin-bottom: 0.5em; 
@@ -86,16 +86,22 @@ p{
     font-size: 1.1em;
 	margin-top: 3.6em;
 	margin-bottom: 0.7em;
+	background-color: black;
+	color: white;
 	}
 	
 #email{
       position: relative;
 	  float: left;
 	  }
-  #medialinks{
-      position: relative;
-	  float: right;
-	  }*/
+	  
+#medialinks{
+    position: relative;
+    float: right;
+    }
+	
+	
+	
 /*body{
     font-size: 1.8em;
     margin-left: 3em;
@@ -140,6 +146,9 @@ h4{
       position: relative;
 	  float: right;
 	  }*/
+	  
+	  
+	  
 /*Link styles*/
 a:link{
     color: rgb(133,19,206);
