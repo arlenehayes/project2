@@ -3,7 +3,7 @@
 /* Yahoo Reset linked to html file */
 /* Cue my own original formatting */
 
-html{
+body{
     width: 90%;
 	margin: 0 auto;
 	min-width: 84em;
@@ -19,6 +19,24 @@ html{
     -ms-text-size-adjust: 100%;
     text-size-adjust: 100%; 
   }
+#content{
+    width: 100%;
+	text-align: left;
+	float: left;
+	}
+
+#column1{
+	width: 33.3%;
+	text-align: left;
+	float: left;
+	}
+	
+#column2{
+	width: 66.7%;
+	text-align: left;
+	float: right;
+	}
+	
 /*body{
     font-size: 1.8em;
     margin-left: 3em;
