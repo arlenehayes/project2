@@ -34,7 +34,8 @@ body{
 
 img{
     display: block;
-	width: 100%;
+	width: 75%;
+	height: 75%;
 	}
 	
 #column2{
@@ -75,7 +76,7 @@ h4{
 p{
     font-size: 1.4em;
 	margin-top: 1.3em;
-	margin-bottom: 0.9em;
+	margin-bottom: 2.7em;
 	}
 	
 /*body{
