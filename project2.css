@@ -80,6 +80,18 @@ p{
 	margin-bottom: 2.7em;
 	}
 	
+#footer{
+    font-size: 0.9em;
+	}
+	
+#email{
+      position: relative;
+	  float: left;
+	  }
+  #medialinks{
+      position: relative;
+	  float: right;
+	  }*/
 /*body{
     font-size: 1.8em;
     margin-left: 3em;
@@ -127,6 +139,7 @@ h4{
 /*Link styles*/
 a:link{
     color: rgb(133,19,206);
+	font-style: none;
     }
 a:visited{
     color: rgb(65,18,95);
