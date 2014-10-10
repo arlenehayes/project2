@@ -23,6 +23,7 @@ body{
     width: 100%;
 	text-align: left;
 	float: left;
+	line-height: 1.8em;
 	}
 
 #column1{
@@ -36,7 +37,30 @@ body{
 	text-align: left;
 	float: right;
 	}
+
+#h1{
+    font-size: 2.1em;
+	margin-top: 1em;
+	margin-bottom: 0.5em; 
+	}
 	
+#h2{
+    font-size: 1.8em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	}
+
+#h3{
+    font-size: 1.6em;
+	margin-top: 2em;
+	margin-bottom: 0em;
+	}
+	
+#h4{
+    font-size: 1.6em;
+	margin-top: 3.8em;
+	margin-bottom: 0em;
+	}
 /*body{
     font-size: 1.8em;
     margin-left: 3em;
@@ -89,9 +113,9 @@ a:visited{
     color: rgb(65,18,95);
     }
 a:hover{
-    color: white;
+    color: black;
     }
 a:active{
-    color: white;
+    color: black;
     }
   
