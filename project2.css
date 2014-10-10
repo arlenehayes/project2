@@ -84,11 +84,14 @@ p{
 	}
 	
 footer#footer{
-    font-size: 0.9em;
+    background-color: white;
+    font-size: 1.1em;
 	margin-top: 3.6em;
 	margin-bottom: 0.7em;
 	margin-left: 0em;
 	margin-right: 0em;
+	position: relative;
+	float: none;
 	}
 	
 #email{
