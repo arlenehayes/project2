@@ -92,6 +92,7 @@ div#photoframepic{
 	
 #footer{
     font-size: 1.1em;
+	float: bottom;
 	margin-top: 3.6em;
 	margin-bottom: 0.7em;
 	margin-left: 0em;
