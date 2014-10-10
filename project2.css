@@ -4,70 +4,72 @@
 /* Cue my own original formatting */
 
 html{
-  background-color: black;
-  color: rgb(187,139,191);
-  font-family: Cambria, Georgia, serif;
-  font-size: 62.5%; /* 1em now = 10px */
-  line-height: 1.5;
-  /*Stops text size adjustment with change in smartphone orientation. Mobile First :D*/
-    /*-webkit-text-size-adjust: 100%;
+    background-color: black;
+    color: rgb(187,139,191);
+    font-family: Cambria, Georgia, serif;
+    font-size: 62.5%; /* 1em now = 10px */
+    line-height: 1.5;
+    /*Stops text size adjustment with change in smartphone orientation. Mobile First :D*/
+    -webkit-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    text-size-adjust: 100%; */
+    text-size-adjust: 100%; 
   }
 body{
-  font-size: 1.8em;
-  margin-left: 3em;
-  margin-right: 3em;
-  }
+    font-size: 1.8em;
+    margin-left: 3em;
+    margin-right: 3em;
+    }
 #header{
-  text-align: center;
-  }
+    text-align: center;
+    }
 h1{
-  font-size: 3.6em;
-  }
+    font-size: 3.6em;
+    }
 h2{
-  font-size: 2.2em;
-  }
+    font-size: 2.2em;
+    }
 h3{
-  font-style: italic;
-  font-size: 1.8em;
-  text-align: center;
+    font-style: italic;
+    font-size: 1.8em;
+    text-align: center;
   }
 h4{
-  font-size: 2em;
-  }
+    font-size: 2em;
+    }
 #background{
-  padding-top: 3em;
-  }
+    padding-top: 3em;
+    }
 #school{
-  padding-top: 3em;
-  padding-bottom: 10em;
-  }
+    padding-top: 3em;
+    padding-bottom: 10em;
+    }
 #footer{
-  margin-left: 0em;
-  margin-right: 0em;
-  background-color: rgba(187,139,191,.5);
-  color: black;
-  font-size: 0.9em;
-  }
-#email{
-    float: left;
-	}
-#medialinks{
-    float: right;
-	}
+    margin-left: 0em;
+    margin-right: 0em;
+    background-color: rgba(187,139,191,.5);
+    color: black;
+    font-size: 0.9em;
+    }
+  #email{
+      position: relative;
+	  float: left;
+	  }
+  #medialinks{
+      position: relative;
+	  float: right;
+	  }
 /*Link styles*/
 a:link{
-  color: rgb(133,19,206);
-  }
+    color: rgb(133,19,206);
+    }
 a:visited{
-  color: rgb(65,18,95);
-  }
+    color: rgb(65,18,95);
+    }
 a:hover{
-  color: black;
-  }
+    color: black;
+    }
 a:active{
-  color: white;
-  }
+    color: white;
+    }
   
